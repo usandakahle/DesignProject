@@ -1,0 +1,8 @@
+"Source:","C:\Users\Bronwyn Biggs\OneDrive - University of Cape Town\UCT\THIRD Year\EEE3088F Design Principles\MM Project\part_1\part_1.kicad_sch"
+"Date:","2025/03/24 22:11:09"
+"Tool:","Eeschema 7.0.1"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","2"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor","DNP"
+"J1","1","Conn_02x16_Odd_Even","Conn_02x16_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical","Generic connector, double row, 02x16, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"U1","1","INA219AxD","INA219AxD","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8","",""
