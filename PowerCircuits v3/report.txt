@@ -1,0 +1,76 @@
+Error: Update symbols CN1 CN1 from 'batt_conn:B2B-PH-K-S(LF)(SN)' to 'batt_conn:B2B-PH-K-S(LF)(SN)': *** symbol not found ***
+Error: Update symbols LED1 LED1 from 'led101:KT-0603R' to 'led101:KT-0603R': *** symbol not found ***
+Error: Update symbols U6 U12 from 'npn:2N2222A' to 'npn:2N2222A': *** symbol not found ***
+Error: Update symbols U5 U11 from 'tc4056:TC4056A' to 'tc4056:TC4056A': *** symbol not found ***
+Update symbol TP4 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbol TP3 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbol TP5 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbol TP7 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbol TP6 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbol C2 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol R6 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol R7 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol C10 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol C9 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol #PWR08 from 'power:GND' to 'power:GND': OK
+Update symbol C1 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol U5 from 'Power_Management:TPS22929D' to 'Power_Management:TPS22929D': OK
+Update symbol C3 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol C7 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol #PWR09 from 'power:GND' to 'power:GND': OK
+Update symbols J1 J1 from 'Connector_Generic:Conn_02x16_Odd_Even' to 'Connector_Generic:Conn_02x16_Odd_Even': OK
+Update symbol U3 from 'Regulator_Linear:AP2112K-3.3' to 'Regulator_Linear:AP2112K-3.3': OK
+Update symbol U2 from 'Regulator_Switching:MT3608' to 'Regulator_Switching:MT3608': OK
+Update symbol C5 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol C12 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol R4 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol R3 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol #PWR014 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR015 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR013 from 'power:GND' to 'power:GND': OK
+Update symbol U6 from 'Driver_Motor:DRV8833PWP' to 'Driver_Motor:DRV8833PWP': OK
+Update symbol C11 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol U4 from 'Power_Management:TPS22929D' to 'Power_Management:TPS22929D': OK
+Update symbol C4 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol R1 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol R2 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol C6 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol #PWR010 from 'power:GND' to 'power:GND': OK
+Update symbol Q1 from 'Transistor_FET:AO3401A' to 'Transistor_FET:AO3401A': OK
+Update symbol #PWR07 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR017 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR06 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR05 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR018 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR023 from 'power:GND' to 'power:GND': OK
+Update symbol D1 from 'Device:D_Schottky' to 'Device:D_Schottky': OK
+Update symbol #PWR021 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR01 from 'power:GND' to 'power:GND': OK
+Update symbol R5 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol U1 from 'Driver_Motor:DRV8833PWP' to 'Driver_Motor:DRV8833PWP': OK
+Update symbol U7 from 'Slide Switch Korean Hroparts Elec:K3-1391B-51' to 'Slide Switch Korean Hroparts Elec:K3-1391B-51': OK
+Update symbol #PWR024 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR016 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR02 from 'power:GND' to 'power:GND': OK
+Update symbol C8 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbol #PWR03 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR04 from 'power:GND' to 'power:GND': OK
+Update symbol #PWR019 from 'power:GND' to 'power:GND': OK
+Update symbols R6 R12 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols C1 C14 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbols R5 R14 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols TP2 TP2 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbols JP2 JP2 from 'Jumper:Jumper_2_Open' to 'Jumper:Jumper_2_Open': OK
+Update symbols R2 R8 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols R1 R10 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols C2 C15 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbols C3 C13 from 'Device:C_Small' to 'Device:C_Small': OK
+Update symbols R10 R13 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols R4 R11 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbols TP1 TP1 from 'Connector:TestPoint' to 'Connector:TestPoint': OK
+Update symbols JP1 JP1 from 'Jumper:Jumper_2_Open' to 'Jumper:Jumper_2_Open': OK
+Update symbols U2 U10 from 'Regulator_Linear:LM7805_TO220' to 'Regulator_Linear:LM7805_TO220': OK
+Update symbols R3 R9 from 'Device:R_Small_US' to 'Device:R_Small_US': OK
+Update symbol U8 from 'FUC-24F11-SNLB1:FUC-24F11-SNLB1' to 'FUC-24F11-SNLB1:FUC-24F11-SNLB1': OK
+Update symbol U13 from 'INA219AIDCNR:INA219AIDCNR' to 'INA219AIDCNR:INA219AIDCNR': OK
+Update symbol U9 from 'CH224K:CH224K' to 'CH224K:CH224K': OK

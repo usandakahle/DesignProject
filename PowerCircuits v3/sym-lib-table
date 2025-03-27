@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Slide Switch Shou Han")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/SK12D07VG6_C7272161.kicad_sym")(options "")(descr "Slide Switch for this circuit"))
+  (lib (name "Slide Switch Korean Hroparts Elec")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/K3-1391B-51.kicad_sym")(options "")(descr "Single Pole Double Throw (SPDT) 120V Black 5A 30,000 Times Plugin Slide Switches ROHS"))
+  (lib (name "INA219AIDCNR")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/INA219AIDCNR.kicad_sym")(options "")(descr "SOT-23-8 Current Sense Amplifiers ROHS"))
+  (lib (name "CH224K")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/CH224K.kicad_sym")(options "")(descr "USB charging chip ESSOP-10-150mil-1mm USB Converters ROHS"))
+  (lib (name "FUC-24F11-SNLB1")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/FUC-24F11-SNLB1.kicad_sym")(options "")(descr "3A USB 3.1 1 Bend insert 24P Female -30℃~+85℃ Type-C Plugin USB Connectors ROHS"))
+  (lib (name "TC4056A")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/TC4056A.kicad_sym")(options "")(descr "SOP-8-EP Battery Management ROHS"))
+  (lib (name "KT-0603R LED")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/KT-0603R.kicad_sym")(options "")(descr "-40℃~+85℃ Red 0603 LED Indication - Discrete ROHS"))
+  (lib (name "JST")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/B2B-PH-K-S(LF)(SN).kicad_sym")(options "")(descr "1x2P 2P PH Tin 2 -25℃~+85℃ 2A 1 2mm Brass Direct Insert Plugin,P=2mm Wire To Board Connector ROHS"))
+)
