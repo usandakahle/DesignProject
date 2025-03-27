@@ -1,0 +1,372 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin'.
+Info: Processing symbol 'U1:Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U6:Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias'.
+Connected C2 pin 1 to /5V.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1uF.
+Updated C3 symbol association from  to /018efb49-59ca-4ce4-8cda-6cacaeaeaa46.
+Updated C3 properties.
+Add net /PWR_OUT.
+Connected C3 pin 1 to /PWR_OUT.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 2.2 uF.
+Updated C4 symbol association from  to /efec9802-e822-4e4c-88c2-234b15bd666b.
+Updated C4 properties.
+Add net Net-(U1-VINT).
+Connected C4 pin 1 to Net-(U1-VINT).
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C5.
+Changed C5 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 10 uF.
+Updated C5 symbol association from  to /cedad3f9-db3b-435f-a1ef-dcb1ffd564e0.
+Updated C5 properties.
+Connected C5 pin 1 to /PWR_OUT.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 0.01uF.
+Updated C6 symbol association from  to /88b28a5e-8db6-4a04-9369-d7f18918703c.
+Updated C6 properties.
+Add net Net-(U1-VCP).
+Connected C6 pin 1 to Net-(U1-VCP).
+Connected C6 pin 2 to /PWR_OUT.
+Added C7 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C7.
+Changed C7 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1uF.
+Updated C7 symbol association from  to /8d7967ba-72de-4930-a2c6-3db9e086b430.
+Updated C7 properties.
+Connected C7 pin 1 to GND.
+Connected C7 pin 2 to /PWR_OUT.
+Added C8 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 0.01uF.
+Updated C8 symbol association from  to /17fb39c0-2bed-42a4-a578-c141e9397417.
+Updated C8 properties.
+Add net Net-(U6-VCP).
+Connected C8 pin 1 to Net-(U6-VCP).
+Connected C8 pin 2 to /PWR_OUT.
+Added C9 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C9.
+Changed C9 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1uF.
+Updated C9 symbol association from  to /8e1f64b6-f7ae-4e24-8fb3-3c81fb051dff.
+Updated C9 properties.
+Add net /EXT_LOAD1_OUT.
+Connected C9 pin 1 to /EXT_LOAD1_OUT.
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C10.
+Changed C10 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1uF.
+Updated C10 symbol association from  to /2fece93f-de1f-4f44-bf6b-05435f64d708.
+Updated C10 properties.
+Add net /EXT_LOAD2_OUT.
+Connected C10 pin 1 to /EXT_LOAD2_OUT.
+Connected C10 pin 2 to GND.
+Added C11 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 2.2 uF.
+Updated C11 symbol association from  to /e505acb9-3133-4da6-8ade-9eec8e3d65b2.
+Updated C11 properties.
+Add net Net-(U6-VINT).
+Connected C11 pin 1 to Net-(U6-VINT).
+Connected C11 pin 2 to GND.
+Added C12 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Changed REF** reference designator to C12.
+Changed C12 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 10 uF.
+Updated C12 symbol association from  to /d9305643-a45d-4e94-a846-fea3794a1343.
+Updated C12 properties.
+Connected C12 pin 1 to /PWR_OUT.
+Connected C12 pin 2 to GND.
+Added D1 (footprint 'Diode_SMD:D_SMA').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SMA to D_Schottky.
+Updated D1 symbol association from  to /a4f52dd8-6cc8-4806-9245-48123a82d03e.
+Updated D1 properties.
+Connected D1 pin 1 to /5V.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_2x16_P2.54mm_Vertical to Conn_02x16_Odd_Even.
+Updated J1 symbol association from  to /8e23e293-43ea-4410-a445-dfe2ba408132.
+Updated J1 properties.
+Add net /MOTOR2_B_OUT.
+Connected J1 pin 1 to /MOTOR2_B_OUT.
+Add net /MOTOR2_A_OUT.
+Connected J1 pin 2 to /MOTOR2_A_OUT.
+Add net /MOTOR4_A_OUT.
+Connected J1 pin 3 to /MOTOR4_A_OUT.
+Add net /MOTOR2_CTRL1.
+Connected J1 pin 4 to /MOTOR2_CTRL1.
+Add net /MOTOR4_B_OUT.
+Connected J1 pin 5 to /MOTOR4_B_OUT.
+Add net /MOTOR2_CTRL2.
+Connected J1 pin 6 to /MOTOR2_CTRL2.
+Add net /CTRL_EXT_LOAD2.
+Connected J1 pin 7 to /CTRL_EXT_LOAD2.
+Add net /MOTOR4_CTRL1.
+Connected J1 pin 8 to /MOTOR4_CTRL1.
+Add net unconnected-(J1-Pin_9-Pad9).
+Connected J1 pin 9 to unconnected-(J1-Pin_9-Pad9).
+Add net /MOTOR4_CTRL2.
+Connected J1 pin 10 to /MOTOR4_CTRL2.
+Connected J1 pin 11 to /EXT_LOAD2_OUT.
+Add net unconnected-(J1-Pin_12-Pad12).
+Connected J1 pin 12 to unconnected-(J1-Pin_12-Pad12).
+Add net /FAST_CHARGE_CTRL.
+Connected J1 pin 13 to /FAST_CHARGE_CTRL.
+Add net /BATTERY.
+Connected J1 pin 14 to /BATTERY.
+Add net unconnected-(J1-Pin_15-Pad15).
+Connected J1 pin 15 to unconnected-(J1-Pin_15-Pad15).
+Add net /I2C1_SCL.
+Connected J1 pin 16 to /I2C1_SCL.
+Add net /I2C1_SDA.
+Connected J1 pin 17 to /I2C1_SDA.
+Add net /3V3.
+Connected J1 pin 18 to /3V3.
+Connected J1 pin 19 to GND.
+Connected J1 pin 20 to /5V.
+Connected J1 pin 21 to /EXT_LOAD1_OUT.
+Add net /9V.
+Connected J1 pin 22 to /9V.
+Connected J1 pin 23 to GND.
+Add net /MOTOR3_CTRL1.
+Connected J1 pin 24 to /MOTOR3_CTRL1.
+Add net /CTRL_EXT_LOAD1.
+Connected J1 pin 25 to /CTRL_EXT_LOAD1.
+Add net /MOTOR3_CTRL2.
+Connected J1 pin 26 to /MOTOR3_CTRL2.
+Add net /MOTOR3_A_OUT.
+Connected J1 pin 27 to /MOTOR3_A_OUT.
+Add net /MOTOR1_CTRL1.
+Connected J1 pin 28 to /MOTOR1_CTRL1.
+Add net /MOTOR3_B_OUT.
+Connected J1 pin 29 to /MOTOR3_B_OUT.
+Add net /MOTOR1_CTRL2.
+Connected J1 pin 30 to /MOTOR1_CTRL2.
+Add net /MOTOR1_B_OUT.
+Connected J1 pin 31 to /MOTOR1_B_OUT.
+Add net /MOTOR1_A_OUT.
+Connected J1 pin 32 to /MOTOR1_A_OUT.
+Added Q1 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to Q1.
+Changed Q1 value from SOT-23 to AO3401A.
+Updated Q1 symbol association from  to /f0a62c8a-5132-40be-81cb-a39e59a2d2f9.
+Updated Q1 properties.
+Add net Net-(Q1-G).
+Connected Q1 pin 1 to Net-(Q1-G).
+Connected Q1 pin 2 to /BATTERY.
+Connected Q1 pin 3 to /PWR_OUT.
+Added C1 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 75k.
+Updated R1 symbol association from  to /2f7a479b-e418-4e7f-83ce-ae9aae989a75.
+Updated R1 properties.
+Connected R1 pin 1 to /5V.
+Add net Net-(U2-FB).
+Connected R1 pin 2 to Net-(U2-FB).
+Changed REF** reference designator to C1.
+Added R2 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 10k.
+Updated R2 symbol association from  to /656a7874-3139-458f-a789-f9b3025f0623.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(U2-FB).
+Connected R2 pin 2 to GND.
+Changed C1 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1uF.
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 47k.
+Updated R3 symbol association from  to /3c28ca2e-34fc-416c-a3cc-ced6a1f87cc4.
+Updated R3 properties.
+Connected R3 pin 1 to /BATTERY.
+Connected R3 pin 2 to Net-(Q1-G).
+Updated C1 symbol association from  to /0ac1dd70-6d70-40d7-99b3-a2035fefd931.
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 1.
+Updated R4 symbol association from  to /1524d21c-dfc8-42b4-8b33-dcf88f2e1019.
+Updated R4 properties.
+Connected R4 pin 1 to GND.
+Add net Net-(U1-AISEN).
+Connected R4 pin 2 to Net-(U1-AISEN).
+Updated C1 properties.
+Added R5 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 1.
+Updated R5 symbol association from  to /fc04fa18-7e6b-485a-bfb6-0888bedb2867.
+Updated R5 properties.
+Add net Net-(U1-BISEN).
+Connected R5 pin 1 to Net-(U1-BISEN).
+Connected R5 pin 2 to GND.
+Add net /5V.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 0.4.
+Updated R6 symbol association from  to /8ae21cfa-aa5c-4418-a420-102c581e7234.
+Updated R6 properties.
+Add net Net-(U6-AISEN).
+Connected R6 pin 1 to Net-(U6-AISEN).
+Connected R6 pin 2 to GND.
+Connected C1 pin 1 to /5V.
+Added R7 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 0.4.
+Updated R7 symbol association from  to /8cc555e8-44c6-4764-9e43-7be8959c8576.
+Updated R7 properties.
+Connected R7 pin 1 to GND.
+Add net Net-(U6-BISEN).
+Connected R7 pin 2 to Net-(U6-BISEN).
+Add net GND.
+Added SW1 (footprint 'Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin to SW_SPST.
+Updated SW1 symbol association from  to /f2503588-0bc4-4a8e-b381-9a6e9d3544b4.
+Updated SW1 properties.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 2 to Net-(Q1-G).
+Connected C1 pin 2 to GND.
+Added U1 (footprint 'Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias').
+Changed REF** reference designator to U1.
+Changed U1 value from HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias to DRV8833PWP.
+Updated U1 symbol association from  to /0664e3e1-5a5a-4f0f-b247-2bfc425822c4.
+Updated U1 properties.
+Connected U1 pin 1 to /PWR_OUT.
+Connected U1 pin 2 to /MOTOR1_A_OUT.
+Connected U1 pin 3 to Net-(U1-AISEN).
+Connected U1 pin 4 to /MOTOR1_B_OUT.
+Connected U1 pin 5 to /MOTOR2_B_OUT.
+Connected U1 pin 6 to Net-(U1-BISEN).
+Connected U1 pin 7 to /MOTOR2_A_OUT.
+Add net unconnected-(U1-nFAULT-Pad8).
+Connected U1 pin 8 to unconnected-(U1-nFAULT-Pad8).
+Connected U1 pin 9 to /MOTOR2_CTRL1.
+Connected U1 pin 10 to /MOTOR2_CTRL2.
+Connected U1 pin 11 to Net-(U1-VCP).
+Connected U1 pin 12 to /PWR_OUT.
+Connected U1 pin 13 to GND.
+Connected U1 pin 14 to Net-(U1-VINT).
+Connected U1 pin 15 to /MOTOR1_CTRL2.
+Connected U1 pin 16 to /MOTOR1_CTRL1.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Connected U1 pin 17 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-23-6 to MT3608.
+Updated U2 symbol association from  to /c8c350d5-95c1-4c56-8228-cc413654dc48.
+Updated U2 properties.
+Connected U2 pin 1 to Net-(D1-A).
+Connected U2 pin 2 to GND.
+Connected U2 pin 3 to Net-(U2-FB).
+Connected U2 pin 4 to /PWR_OUT.
+Connected U2 pin 5 to /PWR_OUT.
+Add net unconnected-(U2-NC-Pad6).
+Connected U2 pin 6 to unconnected-(U2-NC-Pad6).
+Changed REF** reference designator to C2.
+Added U3 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U3.
+Changed U3 value from SOT-23-5 to AP2112K-3.3.
+Updated U3 symbol association from  to /bdeec1c6-66c4-4b6a-9b1c-b3b3723511b1.
+Updated U3 properties.
+Connected U3 pin 1 to /5V.
+Connected U3 pin 2 to GND.
+Connected U3 pin 3 to /PWR_OUT.
+Add net unconnected-(U3-NC-Pad4).
+Connected U3 pin 4 to unconnected-(U3-NC-Pad4).
+Connected U3 pin 5 to /3V3.
+Changed C2 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 1 uF.
+Added U4 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U4.
+Changed U4 value from SOT-23-6 to TPS22929D.
+Updated U4 symbol association from  to /ec889989-d2ac-4b54-8ab4-d5e8a18e606c.
+Updated U4 properties.
+Connected U4 pin 1 to /EXT_LOAD2_OUT.
+Connected U4 pin 2 to GND.
+Connected U4 pin 3 to /CTRL_EXT_LOAD2.
+Connected U4 pin 4 to /PWR_OUT.
+Connected U4 pin 5 to GND.
+Connected U4 pin 6 to /PWR_OUT.
+Updated C2 symbol association from  to /fc85ac6f-15d4-4c07-9b0c-afbca823fbc2.
+Added U5 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U5.
+Changed U5 value from SOT-23-6 to TPS22929D.
+Updated U5 symbol association from  to /7e76c7be-fd23-435b-930a-a5e5b9b868f3.
+Updated U5 properties.
+Connected U5 pin 1 to /EXT_LOAD1_OUT.
+Connected U5 pin 2 to GND.
+Connected U5 pin 3 to /CTRL_EXT_LOAD1.
+Connected U5 pin 4 to /PWR_OUT.
+Connected U5 pin 5 to GND.
+Connected U5 pin 6 to /PWR_OUT.
+Updated C2 properties.
+Added U6 (footprint 'Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias').
+Changed REF** reference designator to U6.
+Changed U6 value from HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias to DRV8833PWP.
+Updated U6 symbol association from  to /bcfce3d3-1136-4361-ad6c-1c1ea9638c57.
+Updated U6 properties.
+Connected U6 pin 1 to /PWR_OUT.
+Connected U6 pin 2 to /MOTOR3_A_OUT.
+Connected U6 pin 3 to Net-(U6-AISEN).
+Connected U6 pin 4 to /MOTOR3_B_OUT.
+Connected U6 pin 5 to /MOTOR4_B_OUT.
+Connected U6 pin 6 to Net-(U6-BISEN).
+Connected U6 pin 7 to /MOTOR4_A_OUT.
+Add net unconnected-(U6-nFAULT-Pad8).
+Connected U6 pin 8 to unconnected-(U6-nFAULT-Pad8).
+Connected U6 pin 9 to /MOTOR4_CTRL1.
+Connected U6 pin 10 to /MOTOR4_CTRL2.
+Connected U6 pin 11 to Net-(U6-VCP).
+Connected U6 pin 12 to /PWR_OUT.
+Connected U6 pin 13 to GND.
+Connected U6 pin 14 to Net-(U6-VINT).
+Connected U6 pin 15 to /MOTOR3_CTRL2.
+Connected U6 pin 16 to /MOTOR3_CTRL1.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+Connected U6 pin 17 to GND.
+
+
+Info: Total warnings: 0, errors: 0.

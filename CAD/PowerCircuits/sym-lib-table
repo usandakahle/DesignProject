@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Slide Switch Shou Han")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/SK12D07VG6_C7272161.kicad_sym")(options "")(descr "Slide Switch for this circuit"))
+  (lib (name "Slide Switch Korean Hroparts Elec")(type "KiCad")(uri "C:/Users/Sandakahle/OneDrive - University of Cape Town/Documents/KiCad/7.0/JLC2KiCad_lib/symbol/K3-1391B-51.kicad_sym")(options "")(descr "Single Pole Double Throw (SPDT) 120V Black 5A 30,000 Times Plugin Slide Switches ROHS"))
+)
