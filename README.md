@@ -6,7 +6,7 @@ This project is the power module circuit for the EEE3088F design project that pr
 
 -  Boost Converter (3.7V → 5V @ 1.5A)
 -  LDO Regulator (5V → 3.3V @ 300mA)
-- ⚙ Dual H-Bridge Motor Driver (DRV8833 for 4x brushed DC motors)
+-  Dual H-Bridge Motor Driver (DRV8833 for 4x brushed DC motors)
 -  High-Side Load Switches (TPS2HB50-Q1, 2 channels @ 1A each)
 -  Physical ON/OFF switch with <30µA shutdown current
 -  Small PCB footprint, JLCPCB-ready
